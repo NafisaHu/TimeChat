@@ -1,0 +1,9 @@
+Segment 1: 2 (from 10.0 to 114.0) extracted to segmented_videos_summ/iv/output_0.mp4
+Segment 2: 3 (from 71.0 to 311.0) extracted to segmented_videos_summ/iv/output_1.mp4
+Segment 3: 4 (from 31.0 to 385.0) extracted to segmented_videos_summ/iv/output_2.mp4
+Segment 4: 4 (from 9.0 to 435.0) extracted to segmented_videos_summ/iv/output_3.mp4
+Segment 5: 4 (from 46.0 to 462.0) extracted to segmented_videos_summ/iv/output_4.mp4
+Segment 6: 5 (from 74.0 to 515.0) extracted to segmented_videos_summ/iv/output_5.mp4
+Segment 7: 5 (from 23.0 to 535.0) extracted to segmented_videos_summ/iv/output_6.mp4
+Segment 8: 5 (from 37.0 to 549.0) extracted to segmented_videos_summ/iv/output_7.mp4
+Segment 9: 5 (from 58.0 to 568.0) extracted to segmented_videos_summ/iv/output_8.mp4

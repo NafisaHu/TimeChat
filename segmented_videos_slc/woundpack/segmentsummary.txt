@@ -1,0 +1,2 @@
+Segment 1: wrap legs with bandage. (from 0.0 to 105.9) extracted to segmented_videos_slc/woundpack/output_0.mp4
+Segment 2: press bandage tightly. (from 107.9 to 276.2) extracted to segmented_videos_slc/woundpack/output_1.mp4

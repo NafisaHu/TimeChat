@@ -1,0 +1,9 @@
+Segment 1: A person stirs in a pan on a stove with cooked rice noodles in a pot of hot water. (from 0.0 to 12.5) extracted to segmented_videos_highlights/padthai/segment_1.mp4
+Segment 2: A person stirs a cup of vegetables and fish in hot oil in a pan. (from 21.5 to 47.5) extracted to segmented_videos_highlights/padthai/segment_2.mp4
+Segment 3: The person puts the pot of noodles on the stove and pours the vegetables and fish in. (from 47.5 to 63.7) extracted to segmented_videos_highlights/padthai/segment_3.mp4
+Segment 4: The person uses a cooking fork to move the fish in the pan. (from 63.7 to 83.7) extracted to segmented_videos_highlights/padthai/segment_4.mp4
+Segment 5: The person pours a egg in the pan and mixes it around. (from 83.7 to 93.0) extracted to segmented_videos_highlights/padthai/segment_5.mp4
+Segment 6: The person pours in the cooked noodles in the pan. (from 93.0 to 168.8) extracted to segmented_videos_highlights/padthai/segment_6.mp4
+Segment 7: The person takes the cooked noodles out of the pan and stirs the pan. (from 168.8 to 188.8) extracted to segmented_videos_highlights/padthai/segment_7.mp4
+Segment 8: The person pours in some oil in the pan and then pours some fish sauce in the pan. (from 188.8 to 231.7) extracted to segmented_videos_highlights/segment_8.mp4
+Segment 9: The person takes the fish out of the pan. (from 231.7 to 233.9) extracted to segmented_videos_highlights/padthai/segment_9.mp4

@@ -1,0 +1,3 @@
+Segment 1: take the blood from the vein with a syringe. (from 0.0 to 12.0) extracted to segmented_videos_slc/vein/output_0.mp4
+Segment 2: put the band on the venous. (from 13.0 to 48.0) extracted to segmented_videos_slc/vein/output_1.mp4
+Segment 3: pull out the syringe and press band. (from 49.0 to 146.0) extracted to segmented_videos_slc/vein/output_2.mp4

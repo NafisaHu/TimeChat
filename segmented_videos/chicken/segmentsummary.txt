@@ -1,0 +1,4 @@
+Segment 1: We see a close up of fried chicken with a person cooking it in a pan. (from 0.0 to 30.5) extracted to segmented_videos/chicken/output_0.mp4
+Segment 2: We see the bread being spread with butter. (from 33.3 to 106.4) extracted to segmented_videos/chicken/output_1.mp4
+Segment 3: We see the chicken, the bread being made, and the cooking in a pan. (from 107.4 to 219.4) extracted to segmented_videos/chicken/output_2.mp4
+Segment 4: We see several dishes in a kitchen. (from 220.3 to 298.2) extracted to segmented_videos/chicken/output_3.mp4

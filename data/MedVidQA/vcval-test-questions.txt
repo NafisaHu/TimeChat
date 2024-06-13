@@ -1,0 +1,52 @@
+Q1	How to assess for a dislocated hip through physical examination?
+Q2	How to perform a simple exercise to relieve tension in the neck muscles?
+Q3	How to get did of toenail fungus?
+Q4	How to properly clean ear canal?
+Q5	How to properly use nebulizer?
+Q6	How to reduce bleeding and inflammation in the gums?
+Q7	How to apply heat or cold therapy to alleviate sciatica pain in the lower back?
+Q8	How to handle a groin strain using exercise?
+Q9	How to empty a urinary catheter bag safely and properly?
+Q10	How to help a person in removing their prosthetic limb?
+Q11	How to perform rescue breathing on an infant with a tracheal tube?
+Q12	How to use an inhaler with a spacer?
+Q13	How to prepare hydrogen peroxide solution for contact lenses?
+Q14	How should contact lenses be correctly inserted?
+Q15	How to use diaphragmatic breathing to manage asthma?
+Q16	How can ice be used to treat calf tendonitis?
+Q17	How do you use a water flosser to remove tonsil stones?
+Q18	How to floss between an implant and the gum line?
+Q19	How do you use a heat pack to help a stiff jaw?
+Q20	How do you clean around wisdom teeth?
+Q21	How to stop gums from bleeding?
+Q22	How do you clear your nose with nasal spray?
+Q23	How to do leg squats to relieve a herniated disc?
+Q24	How to stand up from a seated position after ACL reconstruction surgery?
+Q25	How to do a self-exam on the lymph nodes in the neck?
+Q26	How to do upright row to plank exercises for rotator cuff?
+Q27	How to relieve pain from a pinched nerve in the neck?
+Q28	How to brush your teeth with an electric toothbrush?
+Q29	How to brush your teeth if you have braces?
+Q30	How can I remove stains from my teeth?
+Q31	How to clean your teeth with a handheld pressure washer?
+Q32	How is the knee checked for arthritis?
+Q33	How do you get rid of scar tissue in the foot?
+Q34	How to stretch hip muscles to relieve hip pain?
+Q35	How to massage around the ear to lessen jaw pain?
+Q36	How do you stretch hamstrings for pain relief?
+Q37	How to stretch to ease lower back pain from a pinched nerve?
+Q38	How are squats done for relief from knee pain?
+Q39	How can cracked feet be treated?
+Q40	How is heat therapy used to treat stiff joints?
+Q41	How is tape applied to the bicep for pain relief?
+Q42	How do you self-massage the jaw for TMJ pain relief?
+Q43	How is neck flexion measured?
+Q44	How is CPR performed on a child?
+Q45	How do you test for a torn Achilles tendon?
+Q46	How do you check for a tight jaw?
+Q47	How to do hamstring exercises to reduce knee swelling?
+Q48	How to use a defibrillator for chest compressions?
+Q49	How is metacarpal flexion and extension measured?
+Q50	How do you ascend stairs with crutches?
+Q51	How to do a glucagon injection?
+Q52	How do you stop bleeding with a first aid kit?

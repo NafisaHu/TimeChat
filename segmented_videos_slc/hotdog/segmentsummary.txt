@@ -1,0 +1,8 @@
+Segment 1: preheat the grill. (from 0.0 to 7.0) extracted to segmented_videos_slc/hotdog/output_0.mp4
+Segment 2: grease the grill. (from 7.0 to 19.0) extracted to segmented_videos_slc/hotdog/output_1.mp4
+Segment 3: put the grill. (from 22.0 to 64.0) extracted to segmented_videos_slc/hotdog/output_2.mp4
+Segment 4: add the buns to the grill. (from 65.0 to 77.0) extracted to segmented_videos_slc/hotdog/output_3.mp4
+Segment 5: add the meat to the grill. (from 78.0 to 104.0) extracted to segmented_videos_slc/hotdog/output_4.mp4
+Segment 6: flip the meat. (from 105.0 to 141.0) extracted to segmented_videos_slc/hotdog/output_5.mp4
+Segment 7: grill the meat. (from 142.0 to 179.0) extracted to segmented_videos_slc/hotdog/output_6.mp4
+Segment 8: place the meat on the buns. (from 180.0 to 202.0) extracted to segmented_videos_slc/hotdog/output_7.mp4

@@ -1,0 +1,5 @@
+Segment 1: fill the injection head. (from 339.0 to 343.0) extracted to segmented_videos_slc/iv/output_0.mp4
+Segment 2: plunge into state and pull out. (from 351.0 to 361.0) extracted to segmented_videos_slc/iv/output_1.mp4
+Segment 3: disinfect the injection area. (from 388.0 to 395.0) extracted to segmented_videos_slc/iv/output_2.mp4
+Segment 4: plunge into state and pull out. (from 404.0 to 407.0) extracted to segmented_videos_slc/iv/output_3.mp4
+Segment 5: plunge into state and pull out. (from 416.0 to 424.0) extracted to segmented_videos_slc/iv/output_4.mp4

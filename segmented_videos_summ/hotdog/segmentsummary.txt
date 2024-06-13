@@ -1,0 +1,3 @@
+Segment 1: A man in a white shirt, dark sunglasses and an apron is speaking to the camera. (from 0.0 to 18.2) extracted to segmented_videos_summ/hotdog/output_0.mp4
+Segment 2: He then takes a sausage from a refrigerator and puts it in a cast iron skillet, adding several ingredients to it. (from 18.2 to 181.8) extracted to segmented_videos_summ/hotdog/output_1.mp4
+Segment 3: He then turns the sausage over on a large table. (from 181.8 to 208.4) extracted to segmented_videos_summ/hotdog/output_2.mp4

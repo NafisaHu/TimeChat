@@ -1,0 +1,4 @@
+Segment 1: A man is standing in his backyard with a grill on. (from 0.0 to 18.8) extracted to segmented_videos/hotdog/output_0.mp4
+Segment 2: He puts sausage in the grill. (from 18.8 to 60.4) extracted to segmented_videos/hotdog/output_1.mp4
+Segment 3: He pours water on the sausage and covers the grill. (from 60.4 to 124.4) extracted to segmented_videos/hotdog/output_2.mp4
+Segment 4: He puts more sausage on the grill. (from 124.4 to 203.4) extracted to segmented_videos/hotdog/output_3.mp4
